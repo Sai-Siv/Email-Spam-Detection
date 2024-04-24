@@ -102,7 +102,7 @@ st.write(
     "provides predictions on whether each email is spam or not."
 )
 
-st.caption("This project is made by : Pankil Soni")
+st.caption("This project is made by : Sowmya and Team")
 st.write(
-    "For more details, check the GitHub repository: [https://github.com/pankil-soni/email-spam-detector]"
+    "For more details, check the GitHub repository: [https://https://github.com/Sai-Siv/Email-Spam-Detection]"
 )
